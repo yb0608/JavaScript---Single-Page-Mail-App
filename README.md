@@ -1,6 +1,6 @@
 # JavaScript---Single-Page-Mail-App
 
-A front-end design for an email client that makes API calls to send and receive emails using JavaScript, HTML, and CSS.
+A front-end design for an email client that makes API calls to send and receive emails using JavaScript, HTML, and CSS and Back-end database management with Django.
 
 ## Specification
 
